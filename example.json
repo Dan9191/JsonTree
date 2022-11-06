@@ -1,0 +1,14 @@
+{
+  "typeCode": {
+    "type": "string",
+    "description": "Вид сведений"
+  },
+  "provider": {
+    "type": "string",
+    "description": "Поставщик"
+  },
+  "fileId": {
+    "type": "string",
+    "description": "Идентификатор файла"
+  }
+}
